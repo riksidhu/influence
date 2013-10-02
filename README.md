@@ -1,3 +1,12 @@
+Edit
+=========
+
+This is my fork of the group project. I architected, designed and build the landing page, compare reps page and the database. Here are the links to sample some of my code - 
+* [D3 directives integrated with AngularJS- here](https://github.com/riksidhu/influence/blob/master/app/scripts/directives/d3Donut.coffee)
+* [Controller for Compare Reps page- here](https://github.com/riksidhu/influence/blob/master/app/scripts/controllers/compare.coffee)
+* [Landing page-here](https://github.com/riksidhu/influence/blob/master/app/views/main.html)
+
+
 Influence
 =========
 Influence is an open-source project to visualize campaign contributions and explore the impact of money on democracy. Many websites offer government transparency data but we felt they made a common mistake: with so much data available, these sites felt compelled to show it all. It is hard to draw meaningful conclusions from a jumbled pile of numbers in bare spreadsheets. We wanted our app to show a smaller set of data visualized in a compelling way, allowing people to more easily draw their own conclusions without injecting any partisan bias.
